@@ -1,4 +1,4 @@
-- ✨ Namaste! I am Aishwarya Patle
+- ✨ Hello! I am Aishwarya Patle
 - ✨ Currently pursuing BTech. in Computer Science & Engineering from G H Raisoni College of Engineering, Nagpur
 - ✨ I am a learner who wish to learn new skills and explore new things
 
