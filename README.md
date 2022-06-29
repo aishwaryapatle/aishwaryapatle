@@ -1,8 +1,6 @@
-:wave: Hello! I am Aishwarya Patle  
-Final Year Computer Science & Engineering at G H Raisoni College of Engineering, Nagpur  
-I have good hands on HTML, CSS, Javascript, Canva (for designing purpose) and some programming languages like C / C++, Java.  
-I am enthusiastic about my ambitions and want to explore different disciplines by giving my personal best at every task allotted.  
-I am a learner who wish to learn new skills and explore new things  
+:raised_hand_with_fingers_splayed: Hello! My name is Aishwarya Patle . 
+I am a Final Year Computer Science & Engineering student at G. H. Raisoni College of Engineering, Nagpur, skilled in C, C++, Core Java and front-end Web Development.  
+ 
 
 
 <!---
