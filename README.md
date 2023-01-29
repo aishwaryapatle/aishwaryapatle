@@ -14,15 +14,7 @@
 -⚡ Fun fact **I am fairly good with painting**
 
 <br/>
-<h3 align="center">📫 Connect with me<!---on---></h3>
-<!---
-<p align="center">
-  <a href="mailto:aishwaryapatle22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/rajlaxmi024/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/meshramrajlaxmi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RajlaxmiMeshram" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</p>
---->
+<h3 align="left">📫 Connect with me:<!---on---></h3>
 
 <div id="badges">
   <a href="mailto:aishwaryapatle22@gmail.com">
@@ -48,3 +40,17 @@
      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
   </a> 
 </div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src=https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white/>&nbsp;&nbsp;&nbsp;
+  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>&nbsp;&nbsp;&nbsp;
+  <img src=https://img.shields.io/badge/Java-43b02a?style=for-the-badge&logo=java&logoColor=white/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=Html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-39457E?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-D24939?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-0078d7?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-FF6C37?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+</p>
