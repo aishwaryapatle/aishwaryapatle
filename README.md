@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Patle</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapatle&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatle" /> </p>
 
-- 🔭 I’m currently working on **HERITAGE identification of monuments**
+-🔭 I’m currently working on **HERITAGE identification of monuments**
 
 - 🌱 I’m currently learning **Servlet and JSP**
 
