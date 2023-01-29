@@ -5,7 +5,7 @@
 
 -🌱 I’m currently learning **Servlet and JSP**
 
--👯 I’m looking to collaborate on **Web based Open Source Project**
+<!-- -👯 I’m looking to collaborate on **Web based Open Source Project** -->
 
 -💬 Ask me about **Java and its frameworks**
 
@@ -41,6 +41,7 @@
   </a> 
 </div>
 
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src=https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white/>&nbsp;&nbsp;&nbsp;
