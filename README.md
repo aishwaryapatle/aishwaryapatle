@@ -14,7 +14,7 @@
 -⚡ Fun fact **I am fairly good with painting**
 
 <br/>
-<h2 align="center">📫 Connect with me<!---on---></h2>
+<h3 align="center">📫 Connect with me<!---on---></h3>
 <!---
 <p align="center">
   <a href="mailto:aishwaryapatle22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,9 +31,9 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
+  <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-#FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+  </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
