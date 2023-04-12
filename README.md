@@ -11,7 +11,7 @@
 
 -📄 Know about my experiences [Here](https://drive.google.com/file/d/1Bw0z5uSxM1k4uSIN_h09ZxI7gJY9D1ss/view?usp=share_link)
 
--⚡ Fun fact **I am fairly good with painting**
+<!-- -⚡ Fun fact **I am fairly good with painting** -->
 
 <br/>
 <h3 align="left">📫 Connect with me:<!---on---></h3>
