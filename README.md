@@ -3,7 +3,7 @@
 
 -🔭 I’m currently working on **HERITAGE identification of monuments**
 
--🌱 I’m currently learning **Spring Boot**
+-🌱 I’m currently learning **Spring Boot** 
 
 <!-- -👯 I’m looking to collaborate on **Web based Open Source Project** -->
 
