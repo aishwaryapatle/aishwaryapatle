@@ -1,55 +1,36 @@
-<h1 align="center">Hola, I'm Aishwarya Patle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- Profile Views <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapatle&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatle" /></p> -->
+Hi, I'm Aishwarya Patle 👋
 
-🌱 I’m currently learning Microservices, DSA
+Backend Developer | Python | Cloud & Scalable Systems
 
-👨‍💻 All of my projects are available at https://github.com/aishwaryapatle
+I'm a Software Engineer with 3+ years of experience building backend applications, REST APIs, and cloud-based solutions. I primarily work with Python, focusing on backend development, API design, database optimization, and building reliable, scalable applications.
 
-💬 Ask me about Java, Spring Boot, Microservices, Problem Solving
+I enjoy solving engineering problems, exploring new technologies, and understanding how systems work under the hood.
 
-📫 How to reach me aishwaryapatle22@gmail.com
+- 💻 Backend: Python, FastAPI, Flask, REST APIs, GraphQL
+- 🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis
+- ☁️ Cloud & DevOps: AWS, Docker
+- ⚛️ Frontend: React.js, JavaScript
+- 🔧 Tools & Libraries: SQLAlchemy, Celery, Git, Linux
+- 🌱 Currently exploring: System Design, Distributed Systems & Scalable Backend Architecture
+- 🚀 Projects: "Explore my repositories" (https://github.com/aishwaryapatle)
+- 📫 Reach me: "Email" (mailto:aishwaryapatle22@gmail.com)
 
-⚡ Fun fact I think if I am into something then I have to go in-depth of it XD.
+🤝 Let's Connect
 
-<br/>
-<h3 align="left">📫 Connect with me:</h3>
-<div id="badges">
-  <a href="mailto:aishwaryapatle22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a target="_blank" href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a target="_blank" href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="#" target="_blank">
-     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-  </a> 
-</div>
-
-<br/>
-<h3 align="left"><!---Languages and Tools--->My Tech Toolkit:</h3>
 <p align="left">
-  <img src=https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white/>&nbsp;&nbsp;&nbsp;
-  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>&nbsp;&nbsp;&nbsp;
-  <img src=https://img.shields.io/badge/Java-43b02a?style=for-the-badge&logo=java&logoColor=white/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=Html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-39457E?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-D24939?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-0078d7?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PHP-FF6C37?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-<!--Badges:   https://ileriayo.github.io/markdown-badges/ -->
-</p>
+  <a href="mailto:aishwaryapatle22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aishwaryapatle/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/aishwaryapatle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,postgres,mysql,mongodb,redis,aws,docker,git,github,linux" alt="Tech Stack"/>
+</p>---
 
-
-
-
+💡 Fun fact: When something catches my interest, I can't help but dive deep into it. I like understanding not just how things work, but why they work that way!
